@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Spatial Analysis
+- 🌱 I’m currently learning Full Stack
+- 👯 I’m looking to collaborate on Data Analytics
+
+Thanks For Visiting!
 
 <!--
 **SHAIKYASIR/SHAIKYASIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
