@@ -5,26 +5,24 @@
 <br clear="both">
 
 <div align="left">
-  <a href="mailto:zayedsh2003@gmail.com" target="_blank">
+  <a href="mailto:shaikyasirtawfiq@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/zayed-haque/" target="_blank">
+  <a href="[https://www.linkedin.com/in/shaik-yasir-tawfiq-48b0a8236/]" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/17379531/enigma" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="stackoverflow logo"  />
-  </a>
+ 
 </div>
 
 ###
 
 <div align="left">
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VxcTFuN2s0Yzl0a3c4N241ejRpc3lic2t1cXoxaWw2MmY0eHI4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8oPkn7Hl79J6g/giphy.gif"  />
+  <img height="150" src="https://giphy.com/embed/usXZmmgP9Z7kf39fnq" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq"  />
 </div>
 
 ###
 
-<p align="left">I'm a Computer Science student specializing in Data Science, focusing on backend development, Machine Learning (ML), and MLOps. <br><br>Ex-SWE Intern at Coinbase and Kelly Technology<br><br>My technical interests include:<br>Developing scalable backend systems and APIs<br>Implementing and deploying ML models, including Large Language Models (LLMs)<br>Building ML pipelines and MLOps infrastructure<br>Optimizing data processing and storage solutions<br><br>My goal is to bridge the gap between cutting-edge ML research and production-ready systems.</p>
+<p align="left">I'm a Computer Science student specializing in Data Science, focusing on backend development, Machine Learning (ML), and MLOps.<br>My technical interests include:<br>Developing scalable backend systems and APIs<br>Implementing and deploying ML models, including Large Language Models (LLMs)<br>Building ML pipelines and MLOps infrastructure<br>Optimizing data processing and storage solutions<br><br>My goal is to bridge the gap between cutting-edge ML research and production-ready systems.</p>
 
 ###
 
