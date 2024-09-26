@@ -8,26 +8,33 @@
   <a href="mailto:shaikyasirtawfiq@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
   </a>
-  <a href="[https://www.linkedin.com/in/shaik-yasir-tawfiq-48b0a8236/]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
-  </a>
+ <a href="https://www.linkedin.com/in/shaik-yasir-tawfiq-48b0a8236/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
+</a>
+
  
 </div>
 
 ###
 
 <div align="left">
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-    <iframe src="https://giphy.com/embed/usXZmmgP9Z7kf39fnq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  </div>
-  <p><a href="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq">via GIPHY</a></p>
+  <img height="300" src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif" />
 </div>
+
 
 
 
 ###
 
-<p align="left">I'm a Computer Science student specializing in Data Science, focusing on backend development, Machine Learning (ML), and MLOps.<br>My technical interests include:<br>Developing scalable backend systems and APIs<br>Implementing and deploying ML models, including Large Language Models (LLMs)<br>Building ML pipelines and MLOps infrastructure<br>Optimizing data processing and storage solutions<br><br>My goal is to bridge the gap between cutting-edge ML research and production-ready systems.</p>
+<p align="left">
+  👨‍💻 I'm a Computer Science student with a strong interest in Data Science, focusing on backend development, Machine Learning (ML), and MLOps.<br><br>
+   I enjoy working on:<br>
+  -  Implementing and deploying ML models, including Large Language Models (LLMs)<br>
+  -  Building and maintaining scalable ML pipelines and MLOps infrastructure<br>
+  -  Optimizing data processing, storage systems, and workflows<br><br>
+  My aim is to connect innovative ML research with practical, production-level systems.
+</p>
+
 
 ###
 
